@@ -7,4 +7,6 @@ Travel merupakan jasa yang bergerak di bidang perjalanan. Dalam pengelolaannya, 
 - BUAT DATABASE BERNAMA pbo DI PHPMYADMIN
 - iMPORT FILE pbo.sql KE DATABSASE pbo YANG SUDAH DIBUAT
 - DATABSE SUDAH TERINSTALL
+- JALANKAN APLIKASI (GUI) DENGAN MENEKAN SHIFT + F6 PADA BuReGiTravel CLASS YG BERADA DI PACKAGE travel
+- JALANKAN APLIKASI (CONSOLE) DENGAN MENEKAN SHIFT + F6 PADA Driver CLASS YG BERADA DI PACKAGE consoleapps
 Cara menggunakan aplikasi dapat dilihat di file User Manual.pdf
